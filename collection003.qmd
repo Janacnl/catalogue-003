@@ -14,11 +14,11 @@ Nextcloud Markdown document link: https://tib.eu/cloud/s/qBx8SbqiPBBedye
 
 ## Add your name:
 
-* Simon Worthington
+* Jana Cornelius
 
 ## Text editing
 
-Paste in a section of text based on variation of Baroque painting collections in the state of Bavaria.
+The state of Bavaria is home to some of the most impressive collections of Baroque paintings in the world. The region's rich history, coupled with the patronage of powerful rulers and wealthy nobles, led to the creation of a vibrant artistic culture during the Baroque era. Today, many of these works can be found in museums and galleries throughout the state, showcasing the breadth and depth of Bavaria's artistic heritage.
 
 <https://openai.com/blog/chatgpt>
 
