@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.12)  21 APR 2023 13:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.21)  21 APR 2023 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **index.tex
 (./index.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30> (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/tex
+L3 programming layer <2023-04-20> (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/tex
 mf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
@@ -118,11 +118,11 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 code-math.sty
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.s
 ty
-Package: expl3 2023-03-30 L3 programming layer (loader) 
+Package: expl3 2023-04-20 L3 programming layer (loader) 
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3back
 end-xetex.def
-File: l3backend-xetex.def 2023-03-30 L3 backend support: XeTeX
+File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
 \g__graphics_track_int=\count268
 \l__pdf_internal_box=\box53
 \g__pdf_backend_object_int=\count269
@@ -403,7 +403,7 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperre
 f.sty
-Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+Package: hyperref 2023-04-20 v7.00w Hypertext links for LaTeX
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdf
 texcmds.sty
@@ -458,36 +458,32 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.
 def
-File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-04-20 v7.00w Hyperref: PDFDocEncoding definition (HO)
 )
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcal
 c.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/etexcmds/etexc
-mds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
 \Hy@SavedSpaceFactor=\count304
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.d
 ef
-File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-04-20 v7.00w Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4060.
-Package hyperref Info: Hyper figures OFF on input line 4177.
-Package hyperref Info: Link nesting OFF on input line 4182.
-Package hyperref Info: Hyper index ON on input line 4185.
-Package hyperref Info: Plain pages OFF on input line 4192.
-Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Option `unicode' set `true' on input line 4065.
+Package hyperref Info: Hyper figures OFF on input line 4182.
+Package hyperref Info: Link nesting OFF on input line 4187.
+Package hyperref Info: Hyper index ON on input line 4190.
+Package hyperref Info: Plain pages OFF on input line 4197.
+Package hyperref Info: Backreferencing OFF on input line 4202.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4425.
+Package hyperref Info: Bookmarks ON on input line 4449.
 \c@Hy@tempcnt=\count305
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
+LaTeX Info: Redefining \url on input line 4787.
 \XeTeXLinkMargin=\dimen176
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.
@@ -502,13 +498,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count306
 \Field@Width=\dimen177
 \Fld@charsize=\dimen178
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+Package hyperref Info: Hyper figures OFF on input line 6066.
+Package hyperref Info: Link nesting OFF on input line 6071.
+Package hyperref Info: Hyper index ON on input line 6074.
+Package hyperref Info: backreferencing OFF on input line 6081.
+Package hyperref Info: Link coloring OFF on input line 6086.
+Package hyperref Info: Link coloring with OCG OFF on input line 6091.
+Package hyperref Info: PDF/A mode OFF on input line 6096.
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-lt
 x.sty
@@ -523,7 +519,7 @@ Package hyperref Info: Driver (autodetected): hxetex.
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.
 def
-File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
+File: hxetex.def 2023-04-20 v7.00w Hyperref driver for XeTeX
 
 (c:/Users/JanaCnl/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/stri
 ngenc.sty
@@ -1363,10 +1359,10 @@ Type  H <return>  for immediate help.
 l.173 ...ring \includegraphics{6780765/Cupido.jpg}
                                                    
 Here is how much of TeX's memory you used:
- 33377 strings out of 478654
- 693255 string characters out of 5845987
- 1844290 words of memory out of 5000000
- 53009 multiletter control sequences out of 15000+600000
+ 33341 strings out of 478639
+ 692219 string characters out of 5845441
+ 1844698 words of memory out of 5000000
+ 52992 multiletter control sequences out of 15000+600000
  515869 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,6n,121p,1002b,354s stack positions out of 10000i,1000n,20000p,200000b,200000s
