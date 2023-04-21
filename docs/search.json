@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "collection003.html#part-of-the-series-baroque-toc",
+    "href": "collection003.html#part-of-the-series-baroque-toc",
+    "title": "Catalogue Experiment: Baroque AI",
+    "section": "Part of the series: Baroque TOC",
+    "text": "Part of the series: Baroque TOC\n\nClass instructions and all links: https://nfdi4culture.github.io/class-ADA-CP-pipeline/\nDemo publication: https://nfdi4culture.github.io/catalogue-003/\nRepo link: https://github.com/NFDI4Culture/catalogue-003"
+  },
+  {
+    "objectID": "collection003.html#add-your-name",
+    "href": "collection003.html#add-your-name",
+    "title": "Catalogue Experiment: Baroque AI",
+    "section": "Add your name:",
+    "text": "Add your name:\n\nJana Cornelius"
+  },
+  {
+    "objectID": "collection003.html#text-editing",
+    "href": "collection003.html#text-editing",
+    "title": "Catalogue Experiment: Baroque AI",
+    "section": "Text editing",
+    "text": "Text editing\nBavaria is a state in the south of Germany that is known for its rich culture, history, and art. The state has a number of museums and galleries that showcase the unique cultural heritage of the region.\nOne of the most famous museums in Bavaria is the Bavarian National Museum, located in Munich. The museum houses a collection of art and artifacts from the Middle Ages to the 20th century, with a focus on Bavarian and German culture. The museum also has a collection of traditional Bavarian clothing and folk art.\nAnother notable museum in Bavaria is the Pinakothek der Moderne, also located in Munich. The museum is dedicated to modern and contemporary art, with a collection that includes works by famous artists such as Pablo Picasso and Andy Warhol.\nIn Nuremberg, the Germanisches Nationalmuseum is the largest museum of cultural history in Germany. The museum has a collection of over 1.3 million objects that tell the story of German culture and history from prehistoric times to the present day.\nChatGPT (2023): Museums of Bavaria. Online unter https://chat.openai.com/c/6c3124a7-b1ab-47d5-86da-86a4f8f5fd8e [Abruf am 20.04.2023]\nhttps://openai.com/blog/chatgpt\nhttps://www.perplexity.ai/"
+  },
+  {
+    "objectID": "index.html#part-of-the-series-baroque-toc",
+    "href": "index.html#part-of-the-series-baroque-toc",
+    "title": "Baroque AI: Publication Prototype",
+    "section": "Part of the series: Baroque TOC",
+    "text": "Part of the series: Baroque TOC\nProgramme instructions\n2023-03-17 v1.0\n\n\n\nBaroque AI\n\n\nVenus und Cupido, Heinrich Bollandt, between circa 1620 and circa 1630. https://commons.wikimedia.org/wiki/File:Heinrich_Bollandt_-_Venus_und_Cupido.jpg This work is in the public domain.\nExample publications:\n\nExhibition catalogue demo: toc Baroque /toc from Experimental Books – Re-imagining Scholarly Publishing, COPIM. Workshop URL: https://experimentalbooks.pubpub.org/programme-overview\nPublishers catalogue demo: ScholarLed A catalogue of ScholarLed presses built on a Quarto / Jupyter Notebook model for computational publishing. The publication is automatically updated daily to reflect any new books added by the publishers.\nProof of concept #1 - Computational Publication: Computational Publishing for Collections - ADA CP Prototype #1 - Nov 22\nProof of concept #2 - To be confirmed, completion for end of April 2023. This contains all parts fully rendered: Cover, colophon, essay, collection, graph, TIB AV Portal, Semantic Kompakkt\nsemanticClimate: To be confirmed - customised research papers readers made for regional climate change action plans based on IPCC reports and sourcing content from open research repositories.\nFSCI Summer School - publishing from collections class: To be confirmed, July 2023\n\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "colophon.html",
+    "href": "colophon.html",
+    "title": "Colophon",
+    "section": "",
+    "text": "Fork title: Janacnl / catalogue-003\nAuthor: Cornelius, Jana Lisa\nORCID:\nDate: 21.04.2023\nDOI: 10.5281/zenodo.7852387\nRepository URL: https://github.com/Janacnl/catalogue-003\n\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA\nOpen Science Lab - TIB Hannnover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
+  }
+]
