@@ -14,10 +14,10 @@ book:
     - colophon.ipynb
     - collection003.qmd
     - paintings.ipynb
-    - video.ipynb
+    # - video.ipynb
   repo-url: https://github.com/Janacnl/catalogue-003
   repo-actions: [edit]
-  downloads: [pdf]
+  downloads: [pdf,docx,epub]
   cover-image: coverimage.png
 
 # Quarto allows commenting using either Hypothesis or Utterances
