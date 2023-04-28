@@ -14,6 +14,7 @@ book:
     - colophon.ipynb
     - collection003.qmd
     - paintings.ipynb
+    - paintings_1xx.ipynb
     # - video.ipynb
   repo-url: https://github.com/Janacnl/catalogue-003
   repo-actions: [edit]
@@ -37,4 +38,9 @@ format:
   # https://quarto.org/docs/reference/formats/pdf.html
   pdf:
     documentclass: book
-
+    pdf:
+    documentclass: book
+  docx: 
+    toc: true
+  epub: 
+    toc: true   
