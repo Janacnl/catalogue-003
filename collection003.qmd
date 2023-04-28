@@ -1,17 +1,5 @@
 # Museums of Bavaria
 
-```
-Nextcloud Markdown document link: https://tib.eu/cloud/s/qBx8SbqiPBBedye 
-```
-
-## Part of the series: Baroque TOC
-
-* Class instructions and all links: <https://nfdi4culture.github.io/class-ADA-CP-pipeline/>
-* Demo publication: <https://nfdi4culture.github.io/catalogue-003/>
-* Repo link: <https://github.com/NFDI4Culture/catalogue-003>
-
----
-
 ## Add your name:
 
 * Jana Cornelius
@@ -29,7 +17,4 @@ In Nuremberg, the **Germanisches Nationalmuseum** is the largest museum of *cult
 ChatGPT (2023): Museums of Bavaria. Online unter https://chat.openai.com/c/6c3124a7-b1ab-47d5-86da-86a4f8f5fd8e [Abruf am 20.04.2023]
 
 
-<https://openai.com/blog/chatgpt>
-
-<https://www.perplexity.ai/>
 
