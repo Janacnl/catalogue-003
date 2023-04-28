@@ -5,9 +5,9 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Baroque AI: Publication Prototype"
+  title: "Old Masters Gallery Dresden"
   author: "Jana Cornelius"
-  date: "2023-03-17"
+  date: "2023-04-28"
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
