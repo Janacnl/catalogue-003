@@ -13,7 +13,7 @@ book:
     - index.qmd
     - colophon.ipynb
     - collection003.qmd
-    - paintings.ipynb
+    #- paintings.ipynb
     - paintings_1jc.ipynb
    # - collection_1_cornelius.ipynb
     # - video.ipynb
