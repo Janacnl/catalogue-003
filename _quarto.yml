@@ -14,7 +14,8 @@ book:
     - colophon.ipynb
     - collection003.qmd
     #- paintings.ipynb
-    - paintings_1jc.ipynb
+    #- paintings_1jc.ipynb
+    - paintings_stirnbrand.ipynb
    # - collection_1_cornelius.ipynb
     # - video.ipynb
   repo-url: https://github.com/Janacnl/catalogue-003
