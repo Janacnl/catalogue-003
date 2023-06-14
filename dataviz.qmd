@@ -1,0 +1,8 @@
+# Data Visualizatzion
+
+* Jana Cornelius
+
+## Data visualized using [Palladio](http://hdlab.stanford.edu/palladio/)
+
+
+![](palladio_viz.png)
