@@ -5,7 +5,7 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Old Masters Gallery Dresden"
+  title: "Franz Seraph von Stirnbrand"
   author: "Jana Cornelius"
   date: "2023-04-28"
   # this section determines which files will be added to the book as chapters
