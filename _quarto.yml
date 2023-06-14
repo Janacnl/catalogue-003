@@ -10,6 +10,7 @@ book:
   date: "2023-04-28"
   # this section determines which files will be added to the book as chapters
   chapters:
+    #- index.qmd
     - index.qmd
     - colophon.ipynb
     - collection003.qmd
@@ -21,7 +22,8 @@ book:
   repo-url: https://github.com/Janacnl/catalogue-003
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
-  cover-image: coverimage.jpeg
+  #cover-image: coverimage.jpeg
+  cover-image: franzstirnbrandcover.jpeg
 
 # Quarto allows commenting using either Hypothesis or Utterances
 # https://quarto.org/docs/reference/projects/books.html#comments
