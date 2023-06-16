@@ -2,7 +2,10 @@
 
 * Jana Cornelius
 
+
+<div>
+<iframe style="width: 100%; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#%23defaultView%3AGraph%0ASELECT%20%3Finstance_of%20%3Finstance_ofLabel%20%3Fcreator%20%3FcreatorLabel%20%3Finception%20%3Fcopyright_status%20%3Fcopyright_statusLabel%20%3Fimage%20%3Fdepicts%20%3FdepictsLabel%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20%3Finstance_of%20wdt%3AP31%20wd%3AQ134307%3B%0A%20%20%20%20wdt%3AP170%20wd%3AQ119228937%2C%20%3Fcreator.%0A%20%20OPTIONAL%20%7B%20%3Finstance_of%20wdt%3AP571%20%3Finception.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Finstance_of%20wdt%3AP6216%20%3Fcopyright_status.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Finstance_of%20wdt%3AP18%20%3Fimage.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Finstance_of%20wdt%3AP180%20%3Fdepicts.%20%7D%0A%7D%0ALIMIT%20100%0A" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+</div>
+
 ## Data visualized using [Palladio](http://hdlab.stanford.edu/palladio/)
-
-
-![](palladio_viz.png)
+#![](palladio_viz.png)
